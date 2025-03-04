@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bscal\\OneDrive\\Documents\\Personal Stuff\\Coding\\QuadaxMastermind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65DC4D61-C7B2-4738-BCDE-E156152F46AB}|QuadaxMastermind\\QuadaxMastermind.csproj|c:\\users\\bscal\\onedrive\\documents\\personal stuff\\coding\\quadaxmastermind\\quadaxmastermind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DC4D61-C7B2-4738-BCDE-E156152F46AB}|QuadaxMastermind\\QuadaxMastermind.csproj|solutionrelative:quadaxmastermind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bscal\\OneDrive\\Documents\\Personal Stuff\\Coding\\QuadaxMastermind\\QuadaxMastermind\\Program.cs",
+              "RelativeDocumentMoniker": "QuadaxMastermind\\Program.cs",
+              "ToolTip": "C:\\Users\\bscal\\OneDrive\\Documents\\Personal Stuff\\Coding\\QuadaxMastermind\\QuadaxMastermind\\Program.cs",
+              "RelativeToolTip": "QuadaxMastermind\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowHAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:56:15.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

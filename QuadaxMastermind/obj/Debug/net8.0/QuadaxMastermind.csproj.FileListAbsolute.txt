@@ -1,0 +1,14 @@
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\bin\Debug\net8.0\QuadaxMastermind.exe
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\bin\Debug\net8.0\QuadaxMastermind.deps.json
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\bin\Debug\net8.0\QuadaxMastermind.runtimeconfig.json
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\bin\Debug\net8.0\QuadaxMastermind.dll
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\bin\Debug\net8.0\QuadaxMastermind.pdb
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.AssemblyInfoInputs.cache
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.AssemblyInfo.cs
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.csproj.CoreCompileInputs.cache
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.dll
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\refint\QuadaxMastermind.dll
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.pdb
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.genruntimeconfig.cache
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\ref\QuadaxMastermind.dll
