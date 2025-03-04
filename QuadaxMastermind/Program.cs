@@ -11,7 +11,7 @@ void playGame()
 {
     Boolean correctFlag = false;
     string password = generatePassword();
-     Console.WriteLine(password); // Prints correct password, uncomment for debugging
+    // Console.WriteLine(password); // Prints correct password, uncomment for debugging
 
     // Loops for the guesses
     for (int i = 1; i <= totalRounds && !correctFlag; ++i)
