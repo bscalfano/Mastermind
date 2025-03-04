@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuadaxMastermind")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+163087b79811190e47f6c130037c9898cd1534c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64e34f6b9885b180ded295e465bcb919b09d8428")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuadaxMastermind")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuadaxMastermind")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
