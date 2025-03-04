@@ -12,3 +12,4 @@ C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxM
 C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.pdb
 C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.genruntimeconfig.cache
 C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\ref\QuadaxMastermind.dll
+C:\Users\bscal\OneDrive\Documents\Personal Stuff\Coding\QuadaxMastermind\QuadaxMastermind\obj\Debug\net8.0\QuadaxMastermind.sourcelink.json

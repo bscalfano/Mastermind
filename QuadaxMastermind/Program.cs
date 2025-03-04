@@ -11,7 +11,7 @@ void playGame()
 {
     Boolean correctFlag = false;
     string password = generatePassword();
-    // Console.WriteLine(password); // Prints correct password, uncomment for debugging
+     Console.WriteLine(password); // Prints correct password, uncomment for debugging
 
     // Loops for the guesses
     for (int i = 1; i <= totalRounds && !correctFlag; ++i)
@@ -34,6 +34,7 @@ void playGame()
 // Creates the random password
 string generatePassword()
 {
+    return "6661";
     string password = "";
     Random rand = new Random();
 
@@ -97,6 +98,7 @@ Boolean verifyGuess(string password, string guess)
         {
             result += "+";
             password = password.Substring(0, i) + "*" + password.Substring(i + 1); // Replaces matching character so it is not scored twice
+            guess = guess.Substring(0, i) + "*" + guess.Substring(i + 1);
         }
     }
 
@@ -109,6 +111,7 @@ Boolean verifyGuess(string password, string guess)
             {
                 result += "-";
                 password = password.Substring(0, j) + "*" + password.Substring(j + 1); // Replaces matching character so it is not scored twice
+                guess = guess.Substring(0, i) + "*" + guess.Substring(i + 1);
                 break; // Found a match for this character, go to the next
             }
         }
